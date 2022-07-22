@@ -2,7 +2,7 @@
 
 ## Solutions to [Rustlings exercises](https://github.com/rust-lang/rustlings) for latest release v5.0.0
 
-### Topic wise segregated solutions:
+### Topic wise solutions:
 
 ### **intro**
 - [intro1](exercises/intro/intro1.rs)
