@@ -1,5 +1,7 @@
 # 2022-rustlings-solutions
 
+> ## This Project is archived in favour of [@akhildevelops/rustlings-solutions](https://github.com/akhildevelops/rustlings-solutions) that has the latest solutions.
+
 ## Solutions to [Rustlings exercises](https://github.com/rust-lang/rustlings) for latest release v5.0.0
 
 ### Topic wise solutions:
